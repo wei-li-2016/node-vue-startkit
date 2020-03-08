@@ -1,0 +1,22 @@
+/*
+Marca
+id, nome
+
+Placa Mae
+id, nome, marca_id, memoria, chipset, socket, tamanho, rgb
+
+Processador
+id, marca_id, modelo, socket, nucleos, threads, frequencia, frequencia_max_turbo, cache_l2, cache_l3, tdp, pci_versao
+
+Memória
+id, nome, marca_id, capacidade, modelo (excaixe), frequencia, rgb
+
+HD
+id, nome, marca_id, capacidade, modelo (excaixe), rpm
+
+Placa de vídeo
+id, modelo, marca_id, memoria, conectores, rgb
+
+Fonte
+id, modelo, marca_id, potencia, selo
+*/
